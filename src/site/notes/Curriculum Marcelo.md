@@ -13,8 +13,11 @@ Herramientas
 
 Transformar archivo de texto a excel
 Transformar archivo de texto a SQL
-Limpieza de archivos con comas
+
 
 Front End
 
 Backend
+
+(Debe seleccionarse )
+Limpieza de archivos con comas
