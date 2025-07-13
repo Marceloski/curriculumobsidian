@@ -3,43 +3,32 @@
 ---
 
 
-[Volver a la pagina ](https://webportafoliomazocar.vercel.app/)
-#### 1. ¿Estás disponible para nuevos proyectos o colaboraciones?
+[Volver a Home ](https://webportafoliomazocar.vercel.app/)
+#### 1. ¿Que defino como pagina de Informacion?
 
-Sí, actualmente estoy abierto/a a nuevas oportunidades. Puedes contactarme a través de mi mail marcelo.azocar.m@mail.pucv.cl. 
+Una pagina la cual solo posee links de informacion presentada en parrafos o bien con listas de paginas que solo sea necesario mostrar texto, como esta que utiliza Obsidian -> Digital Garden -> GitHub  -> Vercel. 
 
 #### 2. ¿Qué tipo de proyectos puedes hacer?
 
 Actualmente poseo experiencia en paginas de ventas, autenticaciones, Soporte TI/redes. Mi mayor fuerte es poder automatizar y hacer soluciones sostenibles a corto/medio plazo. 
 
-#### 3. ¿Cuál es tu proceso de trabajo?
+#### 3. ¿Como contactarse conmigo?
 
-Normalmente sigo estas etapas: reunión inicial → propuesta → diseño o desarrollo → 
+Sí, actualmente estoy abierto/a a nuevas oportunidades. Puedes contactarme solo a través de mi mail marcelo.azocar.m@mail.pucv.cl. Hago Trabajos Freelance pequeños solamente y estoy buscando mi primer trabajo
 
-#### 4. ¿Cuánto tiempo tardas en completar un proyecto
+#### 4. ¿Que buscas en una empresa?
 
-Depende de la complejidad. Un proyecto pequeño puede tomar 1-2 semanas, mientras que uno más grande puede tomar varias. En la primera reunión siempre doy un estimado realista.
+Busco una empresa con alta comunicacion con la que pueda realizar trabajos en conjunto y entender tanto sus metodos como sus .
 
-#### 5. ¿Cuál es tu rango de Dinero?
+#### 5 ¿Puedes trabajar de forma remota y Presencial?
 
-Mis tarifas varían según el tipo y alcance del trabajo. Para presupuestos personalizados, contáctame directamente con los detalles de tu proyecto.
+Claro que si, hasta tengo disponibilidad de viaje y cambio de recidencia
 
-#### 6. ¿Puedes trabajar de forma remota?
+#### 6. ¿Haces rediseños de proyectos existentes?
 
-Sí, trabajo de forma remota con clientes de todo el mundo. Utilizo herramientas como Zoom, Notion, Google Meet, y correo electrónico para mantener una buena comunicación.
+Sí, es mi mayor fuerte cualquier tipo de proyecto ya existente el cual sea necesario rehacer.
+#### 7. ¿Trabajas solo/a o en equipo?
 
-#### 7. ¿Haces rediseños de proyectos existentes?
+Trabajo principalmente de forma independiente segun sea la tarea, 
 
-Sí, puedo ayudarte a modernizar o mejorar tu proyecto actual, siempre que tengamos acceso a los archivos o recursos necesarios.
-
-#### 8. ¿Ofreces mantenimiento o soporte post-lanzamiento?
-
-Sí, ofrezco servicios de soporte opcional una vez que el proyecto ha sido entregado, como correcciones, ajustes o actualizaciones.
-
-#### 9. ¿Trabajas solo/a o en equipo?
-
-Trabajo principalmente de forma independiente, pero cuento con una red de colaboradores (diseñadores, programadores, redactores) para proyectos más grandes.
-
-#### 10. ¿Puedo ver más ejemplos de tu trabajo?
-
-Sí, puedes explorar mi portafolio completo [aquí](#) o seguirme en [Instagram/Behance/Dribbble](#).
+[[Papercraft\|Papercraft]]
