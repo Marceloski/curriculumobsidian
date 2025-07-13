@@ -3,7 +3,7 @@
 ---
 
 
-Volver a la pagina 
+[Volver a la pagina ](https://webportafoliomazocar.vercel.app/)
 #### 1. ¿Estás disponible para nuevos proyectos o colaboraciones?
 
 Sí, actualmente estoy abierto/a a nuevas oportunidades. Puedes contactarme a través de mi mail marcelo.azocar.m@mail.pucv.cl. 
@@ -16,11 +16,11 @@ Actualmente poseo experiencia en paginas de ventas, autenticaciones, Soporte TI/
 
 Normalmente sigo estas etapas: reunión inicial → propuesta → diseño o desarrollo → 
 
-#### 4. ¿Cuánto tiempo tardas en completar un proyecto?
+#### 4. ¿Cuánto tiempo tardas en completar un proyecto
 
 Depende de la complejidad. Un proyecto pequeño puede tomar 1-2 semanas, mientras que uno más grande puede tomar varias. En la primera reunión siempre doy un estimado realista.
 
-#### 5. ¿Cuál es tu tarifa?
+#### 5. ¿Cuál es tu rango de Dinero?
 
 Mis tarifas varían según el tipo y alcance del trabajo. Para presupuestos personalizados, contáctame directamente con los detalles de tu proyecto.
 
