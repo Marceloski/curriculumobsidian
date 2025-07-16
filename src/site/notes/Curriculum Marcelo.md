@@ -17,11 +17,9 @@ Actualmente poseo experiencia en paginas de ventas, autenticaciones, Soporte TI/
 
 #### 4. ¿Cómo contactarse conmigo?
 
-Sí, actualmente estoy abierto/a a nuevas oportunidades. Puedes contactarme solo a través de mi mail marcelo.azocar.m@mail.pucv.cl. Hago Trabajos Freelance pequeños solamente y estoy buscando mi primer trabajo
+Sí, actualmente estoy abierto/a a nuevas oportunidades. Puedes contactarme solo a través de mi mail marcelo.azocar.m@mail.pucv.cl. Hago Trabajos Freelance pequeños solamente y estoy buscando mi primer trabajo de Informatica o programacion.
 
 #### 5. ¿Qué Tecnologias Manejas?
-
-Manejo :
 
 | Framework web | Bases de datos | Lenguajes | Tecnologias                      | Gestion de proyectos |
 | ------------- | -------------- | --------- | -------------------------------- | -------------------- |
