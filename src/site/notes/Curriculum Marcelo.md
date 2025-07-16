@@ -47,6 +47,6 @@ Sí, es mi mayor fuerte cualquier tipo de proyecto ya existente el cual sea nece
 Trabajo principalmente de forma independiente según sea la tarea, pero me desenvuelvo muy bien cuando se trata de hablar o entender otras areas de trabajo, incluso si no se trata de las tareas que realizo.
 #### 9. ¿Que nivel de ingles posees?
 
-Actualmente poseo ingles B2 certificado por la 
+Actualmente poseo ingles B2 certificado por la Universidad de Cambridge
 
 
